@@ -1,0 +1,30 @@
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\18-701-006.exe.config
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\18-701-006.exe
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\18-701-006.pdb
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\Tao.OpenGl.dll
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\Tao.OpenGl.xml
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\_18_701_006.Form1.resources
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\_18_701_006.Properties.Resources.resources
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.csproj.CopyComplete
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.exe
+C:\Users\Furkan\source\repos\18-701-006\18-701-006\obj\Debug\18-701-006.pdb
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\18-701-006.exe.config
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\18-701-006.exe
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\18-701-006.pdb
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\Tao.OpenGl.dll
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\Tao.OpenGl.xml
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\_18_701_006.Form1.resources
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\_18_701_006.Properties.Resources.resources
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.csproj.CopyComplete
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.exe
+C:\Users\Furkan\source\repos\18-701-006 - Yeni\18-701-006\obj\Debug\18-701-006.pdb
